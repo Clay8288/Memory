@@ -10,4 +10,5 @@ This project was made in JavaScript vanilla
 
 ## Memory Game 
 
-[Project](http://memory-bull.surge.sh/)
+The [Project](http://memory-bull.surge.sh/) is online ;)
+Let's play !
