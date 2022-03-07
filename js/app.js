@@ -4,67 +4,67 @@ const section = document.querySelector("section");
 //Generate the data
 const imgData = () => [
   {
-    imgSrc: "./img/eyes.png",
+    imgSrc: "./public/img/eyes.png",
     name: "Dog eyes",
   },
   {
-    imgSrc: "./img/angelDog.png",
+    imgSrc: "./public/img/angelDog.png",
     name: "Dog angel",
   },
   {
-    imgSrc: "./img/belleDog.png",
+    imgSrc: "./public/img/belleDog.png",
     name: "Dog belle",
   },
   {
-    imgSrc: "./img/fesses.png",
+    imgSrc: "./public/img/fesses.png",
     name: "Dog hass",
   },
   {
-    imgSrc: "./img/hugsDog.png",
+    imgSrc: "./public/img/hugsDog.png",
     name: "Dog hug",
   },
   {
-    imgSrc: "./img/snoopy.png",
+    imgSrc: "./public/img/snoopy.png",
     name: "Dog snoopy",
   },
   {
-    imgSrc: "./img/tongDog.png",
+    imgSrc: "./public/img/tongDog.png",
     name: "Dog tong",
   },
   {
-    imgSrc: "./img/unicornDog.png",
+    imgSrc: "./public/img/unicornDog.png",
     name: "Dog unicorn",
   },
   {
-    imgSrc: "./img/eyes.png",
+    imgSrc: "./public/img/eyes.png",
     name: "Dog eyes",
   },
   {
-    imgSrc: "./img/angelDog.png",
+    imgSrc: "./public/img/angelDog.png",
     name: "Dog angel",
   },
   {
-    imgSrc: "./img/belleDog.png",
+    imgSrc: "./public/img/belleDog.png",
     name: "Dog belle",
   },
   {
-    imgSrc: "./img/fesses.png",
+    imgSrc: "./public/img/fesses.png",
     name: "Dog hass",
   },
   {
-    imgSrc: "./img/hugsDog.png",
+    imgSrc: "./public/img/hugsDog.png",
     name: "Dog hug",
   },
   {
-    imgSrc: "./img/snoopy.png",
+    imgSrc: "./public/img/snoopy.png",
     name: "Dog snoopy",
   },
   {
-    imgSrc: "./img/tongDog.png",
+    imgSrc: "./public/img/tongDog.png",
     name: "Dog tong",
   },
   {
-    imgSrc: "./img/unicornDog.png",
+    imgSrc: "./public/img/unicornDog.png",
     name: "Dog unicorn",
   },
 ];
