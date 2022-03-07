@@ -51,3 +51,11 @@ section {
 .toggleCard {
     transform: rotateY(180deg);
 }
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px){
+
+    section {
+        grid-template-columns: repeat(4, 4rem);
+        grid-template-rows: repeat(4, 4rem);
+    }
+}
